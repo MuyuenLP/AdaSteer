@@ -1,0 +1,10 @@
+*__pycache__*
+*pyc
+*pyd
+
+
+*.egg-info
+
+results/
+*.DS_Store
+
