@@ -1,7 +1,7 @@
-# AdaSteer: Your Aligned LLM is Inherently an Adaptive Jailbreak Defender
+
 
 <div align="center">
-
+# AdaSteer: Your Aligned LLM is Inherently an Adaptive Jailbreak Defender
 [![EMNLP 2025](https://img.shields.io/badge/Venue-EMNLP--25-278ea5)](https://2025.emnlp.org/)
 [![Status](https://img.shields.io/badge/Status-Accepted-success)](https://arxiv.org/abs/2504.09466)
 [![Python](https://img.shields.io/badge/Python-3.9.0-blue.svg)](https://www.python.org/)
