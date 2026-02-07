@@ -1,4 +1,4 @@
-# 🛡️ AdaSteer
+# AdaSteer: Your Aligned LLM is Inherently an Adaptive Jailbreak Defender
 
 <div align="center">
 
